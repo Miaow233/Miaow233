@@ -1,9 +1,8 @@
 ### Hi there 👋
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=Miaow233&show_icons=true&theme=dark" width="60%" />
 
-<img src="https://pic.stackoverflow.wiki/uploadImages/116/92/208/73/2021/09/16/21/59/8194295e-aede-4ed1-a962-112f0b1ab1fb.svg" width="30%" />
-</p>
+![Miaow's GitHub stats](https://github-readme-stats.vercel.app/api?username=Miaow233&count_private=true&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miaow233&hide=shell,css&layout=compact)
 
 <!--
 **Miaow233/Miaow233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
