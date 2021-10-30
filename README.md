@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-![Miaow's GitHub stats](https://github-readme-stats.vercel.app/api?username=Miaow233&count_private=true&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miaow233&hide=shell,css&layout=compact)
+|![Miaow's GitHub stats](https://github-readme-stats.vercel.app/api?username=Miaow233&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miaow233&hide=shell,css&layout=compact&hide_border=true)|
+|---|---|
 
 <!--
 **Miaow233/Miaow233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
