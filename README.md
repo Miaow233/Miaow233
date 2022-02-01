@@ -1,7 +1,7 @@
 ### Hi there, I'm [Miaow](https://github.com/Miaow233)（喵呜）. 👋
 
-<a href="https://count.getloli.com/">
-  <img align="center" width="450" src="https://count.getloli.com/get/@Miaow233" />
+<a href="https://github.com/Miaow233/Miaow233">
+  <img align="center" width="450" src="https://count.getloli.com/get/@Miaow233?theme=rule34" />
 </a></br>
 
 <a href="https://github.com/Miaow233">
