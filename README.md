@@ -1,6 +1,6 @@
 ### Hi there, I'm [Miaow](https://github.com/Miaow233)（喵呜）. 👋
 
-![Metrics](/github-metrics.svg)
+![Metrics](https://raw.fastgit.org/Miaow233/Miaow233/main/github-metrics.svg)
 
 <!--
 <a href="https://wakatime.com/@Miaow233">
