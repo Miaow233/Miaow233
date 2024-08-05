@@ -1,12 +1,11 @@
 ### Hi there, I'm [Miaow](https://github.com/Miaow233)（喵呜）. 👋
-
-![Metrics](https://raw.fastgit.org/Miaow233/Miaow233/main/github-metrics.svg)
-
 <!--
+![Metrics](https://raw.fastgit.org/Miaow233/Miaow233/main/github-metrics.svg)
+-->
+
 <a href="https://wakatime.com/@Miaow233">
   <img align="center" width="450" src="https://github-readme-stats.vercel.app/api/wakatime?username=Miaow233&theme=buefy&layout=compact" />
 </a></br>
--->
 
 <!--
 **Miaow233/Miaow233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
